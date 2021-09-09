@@ -1,0 +1,2 @@
+# mines
+A minesweeper clone
